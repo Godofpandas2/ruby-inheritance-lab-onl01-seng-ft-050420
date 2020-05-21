@@ -1,4 +1,3 @@
-require_relative "./user.rb"
-class Student
+class Student < User
 
 end
